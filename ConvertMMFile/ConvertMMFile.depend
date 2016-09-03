@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1472501616 source:c:\users\hp\desktop\sem 5\compiler\convertmmfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mmio.h"
+
+1472496514 c:\users\hp\desktop\sem 5\compiler\convertmmfile\mmio.h
+
